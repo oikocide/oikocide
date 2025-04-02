@@ -3,7 +3,7 @@
 🎓 **Diploma in Computer Science**  
 💻 Passionate about **Coding, Web Development & Open Source**  
 🚀 Currently learning **Data Structures, Algorithms, and Web Technologies , Digital Marketing**  
-📫 **How to reach me:** [Email](mailto:your-email@example.com) | [GitHub](https://github.com/oikocide)  
+📫 **How to reach me:** [Email](mailto:mewalaly4@gmail.com) | [GitHub](https://github.com/oikocide)  
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">  
 
